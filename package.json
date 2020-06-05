@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fxksmile/vuepress-blog.git",
+  "author": "sbtimo <sbtimo@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
